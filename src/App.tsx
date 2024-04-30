@@ -58,6 +58,7 @@ class App extends Component<{}, IState> {
       // Previous data in the state and the new data from server      
     }, 100);
   }
+  
 
   /**
    * Render the App react component
